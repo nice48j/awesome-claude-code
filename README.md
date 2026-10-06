@@ -911,6 +911,7 @@ Claude Code has a granular permission system to control what actions it can take
 - [mcpservers.org](https://mcpservers.org/) - Directory and registry of MCP servers.
 - [mcp.run](https://mcp.run/) - Run MCP servers in a secure sandbox without local installation.
 - [Smithery](https://smithery.ai/) - Package registry for MCP servers with one-click install.
+- [session-handover](https://github.com/hahahahahahahahah6/session-handover) - Hand off a coding-agent session to the next one, across tools: reads Claude Code and Codex CLI transcripts and generates a structured Markdown handover. Python stdlib only, MIT.
 
 ### Frameworks & Libraries
 
